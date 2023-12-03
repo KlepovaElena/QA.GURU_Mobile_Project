@@ -1,5 +1,5 @@
 # Проект по автоматизации тестовых сценариев для приложения Wikipedia
-## :pushpin: Содержание:
+## Содержание:
 
 - [Использованный стек технологий](#computer-использованный-стек-технологий)
 - [Запуск автотестов](#arrow_forward-запуск-автотестов)
@@ -39,7 +39,7 @@ gradle clean android_test -DdeviceHost=android
 ## <img name="jenkins" src="media/logo/Jenkins.svg" title="Jenkins" width="4%"/> <a href="https://jenkins.autotests.cloud/job/QA.GURU_MobileProject" target="blank">Сборка в Jenkins</a>
 
 <p align="center">
-<img title="Jenkins Build" src="attach/screens/Mobile_jenkins.png">
+<img title="Jenkins Build" src="media/screens/Mobile_jenkins.png">
 </p>
 
 ### Параметры сборки
