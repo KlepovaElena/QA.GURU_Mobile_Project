@@ -62,7 +62,7 @@ gradle clean android_test -DdeviceHost=android
 ### Результат выполнения теста
 
 <p align="center">
-<img title="Test Results in Alure" src="attach/Reports/ResultTest.png">
+<img title="Test Results in Alure" src="media/screens/Mobile_AllureTC.png">
 </p>
 
 <a id="movie"></a>
