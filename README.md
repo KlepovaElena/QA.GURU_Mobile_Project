@@ -69,5 +69,5 @@ gradle clean android_test -DdeviceHost=android
 ## <img alt="Browserstack" height="25" src="media/logo/Browserstack.svg" width="25"/></a> Видеопример выполнения теста Browserstack
 
 <p align="center">
-<img title="Browserstack Video" src="media/screens/video.gif" width="350" height="350"  alt="video">   
+<img title="Browserstack Video" src="media/screens/video.gif" width="352" height="762"  alt="video">   
 </p>
