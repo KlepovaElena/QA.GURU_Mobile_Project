@@ -46,7 +46,7 @@ gradle clean android_test -DdeviceHost=android
 
 * <code>PLATFORM</code> – мобильная платформа, на которой выполняются тесты. По-умолчанию - <code>android</code>.
 
-## <img name="allure" src="media/logo/Mobile_AllureReport.jpg" title="Allure Report" width="4%"/> <a href="https://jenkins.autotests.cloud/job/QA.GURU_MobileProject/2/allure/" target="_blank">Пример Allure-отчета</a>
+## <img name="allure" src="media/logo/Allure.svg" title="Allure Report" width="4%"/> <a href="https://jenkins.autotests.cloud/job/QA.GURU_MobileProject/2/allure/" target="_blank">Пример Allure-отчета</a>
 
 Содержание Allure-отчета:
 * Шаги теста;
@@ -56,7 +56,7 @@ gradle clean android_test -DdeviceHost=android
 ### Overview
 
 <p align="center">
-<img title="Allure Overview" src="media/Reports/Mobile_AllureTC.png">
+<img title="Allure Overview" src="media/screens/Mobile_AllureReport.png">
 </p>
 
 ### Результат выполнения теста
